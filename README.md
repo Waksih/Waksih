@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Edwin! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>...but the people who know their God shall be strong, and carry out great exploits. (Daniel 11:32)</b><br><br>
+    <b>...the only thing you can control in this life is the effort you put into something. </b><br><br>
     <i>
         Code and AI Enthusiast<br>
-        Software Engineer in the making!<br>
+        Data Scientist in the making!<br>
     </i><br>
     <a href="https://waksih.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=https%3A%2F%2Fwaksih.github.io/%2Fimages%2Flogo.png" alt="my website portfolio with logo"> 
